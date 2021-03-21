@@ -2,7 +2,7 @@ const router = require('express').Router()
 const request = require('request')
 const qs = require('query-string')
 
-const FLICKR_API_KEY= '9a41f07944363a7bbd088bbe8bf52217';
+const FLICKR_API_KEY= 'dc550106eb942138c387d44e362de630';
 const url = 'https://www.flickr.com/services/rest/?';
 
 const baseURL = {
